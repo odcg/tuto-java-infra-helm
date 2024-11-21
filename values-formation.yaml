@@ -5,4 +5,4 @@ image:
   tag: "master"
 
 ingress:
-  host: demo18.apps.dso-formation.hp.numerique-interieur.com
+  host: formation11.apps.dso-formation.hp.numerique-interieur.com
