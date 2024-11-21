@@ -23,7 +23,7 @@ ingress:
   enabled: true
   secret:
     enabled: true
-  host: tutrop.dev.numerique-interieur.com
+  host: tutrop.apps.dso-formation.hp.numerique-interieur.com
 
 resources: 
   limits:
