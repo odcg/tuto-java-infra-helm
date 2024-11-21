@@ -23,7 +23,7 @@ ingress:
   enabled: true
   secret:
     enabled: true
-  host: plec-demo.dev.numerique-interieur.com
+  host: tutrop.dev.numerique-interieur.com
 
 resources: 
   limits:
